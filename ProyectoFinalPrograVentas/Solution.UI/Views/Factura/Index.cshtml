@@ -1,0 +1,106 @@
+﻿@model IEnumerable<Solution.UI.Models.Factura>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Facturas</h1>
+
+@*<p>
+        <a asp-action="Create">Create New</a>
+    </p>*@
+<table id="Datos" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdFactura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoFactura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreProductoF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoProductoF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalF)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdFactura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CodigoFactura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdProducto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdUsuario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreProductoF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoProductoF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CantidadF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalF)
+                </td>
+                <td>
+                    @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#Datos').DataTable({
+                'paging': true,
+                'lengthChange': false,
+                'searching': false,
+                'ordering': true,
+                'info': true,
+                'autoWidth': false
+            })
+        })
+    </script>
+}

@@ -1,0 +1,70 @@
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.deps.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.deps.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.deps.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.deps.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.deps.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb

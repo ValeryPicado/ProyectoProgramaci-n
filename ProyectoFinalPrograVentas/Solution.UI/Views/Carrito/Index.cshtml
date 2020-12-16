@@ -1,0 +1,162 @@
+﻿@model IEnumerable<Solution.UI.Models.Carrito>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Carrito</h1>
+
+<div style="text-align:center;color:red">
+    @TempData["errorMensaje"]
+</div>
+
+<div style="text-align:center;color:green">
+    @TempData["exitoMensaje"]
+</div>
+
+<table id="Datos" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCarrito)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreProductoC)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoProductoC)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioC)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadC)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalC)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @if (ViewBag.IdUsuario.Equals(item.IdUsuario))
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdCarrito)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdProducto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreProductoC)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoProductoC)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PrecioC)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CantidadC)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TotalC)
+                    </td>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@item.IdCarrito">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+        @*<tr>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+                <label class="control-label">
+                    <b>
+                        Total:
+                    </b>
+                </label>
+
+            <td>
+                <label class="control-label">
+                    <b>
+                        ₡ @ViewBag.TotalCompra
+                    </b>
+                </label>
+            </td>
+        </tr>*@
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <label> </label>
+            </td>
+            <td>
+                <label> </label>
+            </td>
+            <td>
+                <label> </label>
+            </td>
+            <td>
+                <label> </label>
+            </td>
+            <td>
+                <label> </label>
+            </td>
+            <td>
+                <label class="control-label">
+                    <b>
+                        Total:
+                    </b>
+                </label>
+
+            <td>
+                <label class="control-label">
+                    <b>
+                        ₡ @ViewBag.TotalCompra
+                    </b>
+                </label>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<form asp-action="Details" enctype="multipart/form-data">
+    <div class="form-group">
+        <input asp-controller="Factura" asp-action="AgregarFactura" type="submit" value="Finalizar compra" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#Datos').DataTable({
+                'paging': true,
+                'lengthChange': false,
+                'searching': false,
+                'ordering': true,
+                'info': true,
+                'autoWidth': false
+            })
+        })
+    </script>
+}

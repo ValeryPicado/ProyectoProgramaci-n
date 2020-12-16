@@ -1,0 +1,57 @@
+﻿@model Solution.UI.ViewModel.ProductoViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles del producto</h1>
+
+<h4>¿Desea agregar este producto al carrito?</h4>
+<hr />
+
+<div style="text-align:center;color:red">
+    @TempData["errorMensaje"]
+</div>
+
+<div style="text-align:center;color:green">
+    @TempData["exitoMensaje"]
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Details" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NombreProducto" class="control-label"></label>
+                <input asp-for="NombreProducto" class="form-control" readonly="readonly" />
+                <span asp-validation-for="NombreProducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoProducto" class="control-label"></label>
+                <input asp-for="TipoProducto" class="form-control" readonly="readonly" />
+                <span asp-validation-for="TipoProducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" readonly="readonly" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Inserte la cantidad de unidades que desea:</label>
+                @*<input asp-for="Cantidad" class="form-control" />*@
+                <input name="txtCantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

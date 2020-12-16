@@ -1,0 +1,390 @@
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.exe
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.deps.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.exe
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.deps.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.exe
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.deps.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\SC701_IIICUA20_M-master - copia - copia\SC701-P1\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.exe
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.deps.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.exe
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.deps.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.BS.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\staticwebassets\Solution.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.dll
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.pdb
+C:\Users\Usuario\Desktop\Mercadito\Solution_BackEnd\Solution.API\obj\Debug\netcoreapp3.1\Solution.API.genruntimeconfig.cache

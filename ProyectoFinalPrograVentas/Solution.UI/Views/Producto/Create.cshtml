@@ -1,0 +1,59 @@
+﻿@model Solution.UI.ViewModel.ProductoViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear producto</h1>
+
+<div style="text-align:center;color:red">
+    @TempData["errorMensaje"]
+</div>
+
+<div style="text-align:center;color:green">
+    @TempData["exitoMensaje"]
+</div>
+
+<h4>Rellene los siguientes campos:</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NombreProducto" class="control-label"></label>
+                <input asp-for="NombreProducto" class="form-control" />
+                <span asp-validation-for="NombreProducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoProducto" class="control-label"></label>
+                <br></br>
+
+                @Html.DropDownList("listTipoProducto", new SelectList(ViewBag.Lista, "NombreTipoProducto", "NombreTipoProducto"), "--- Seleccionar Tipo ---", new { htmlAttributes = new { @type = "text", @class = "form-control", @id = "listTipoProducto", @name = "listTipoProducto" } })
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label"></label>
+                <input asp-for="Cantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProfileImage" class="control-label"></label>
+                <input asp-for="ProfileImage" class="form-control" />
+                <span asp-validation-for="ProfileImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

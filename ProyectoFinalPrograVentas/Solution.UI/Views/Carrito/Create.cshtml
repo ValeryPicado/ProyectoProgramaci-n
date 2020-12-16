@@ -1,0 +1,60 @@
+﻿@model Solution.UI.ViewModel.CarritoViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CarritoViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdCarrito" class="control-label"></label>
+                <input asp-for="IdCarrito" class="form-control" />
+                <span asp-validation-for="IdCarrito" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdProducto" class="control-label"></label>
+                <input asp-for="IdProducto" class="form-control" />
+                <span asp-validation-for="IdProducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreProductoC" class="control-label"></label>
+                <input asp-for="NombreProductoC" class="form-control" />
+                <span asp-validation-for="NombreProductoC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoProductoC" class="control-label"></label>
+                <input asp-for="TipoProductoC" class="form-control" />
+                <span asp-validation-for="TipoProductoC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrecioC" class="control-label"></label>
+                <input asp-for="PrecioC" class="form-control" />
+                <span asp-validation-for="PrecioC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CantidadC" class="control-label"></label>
+                <input asp-for="CantidadC" class="form-control" />
+                <span asp-validation-for="CantidadC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalC" class="control-label"></label>
+                <input asp-for="TotalC" class="form-control" />
+                <span asp-validation-for="TotalC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

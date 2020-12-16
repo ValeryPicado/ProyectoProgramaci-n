@@ -1,0 +1,123 @@
+﻿@model IEnumerable<Solution.UI.Models.Producto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Inventario de productos</h1>
+
+<p>
+    @if (User.Identity.Name.Equals("Admin@hotmail.com"))
+    {
+        <a asp-action="Create">Create New</a>
+    }
+</p>
+
+<table id="Datos" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            @if (User.Identity.Name.Equals("Admin@hotmail.com"))
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+            }
+            <th>
+                @Html.DisplayNameFor(model => model.NombreProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            @if (User.Identity.Name.Equals("Admin@hotmail.com"))
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.Cantidad)
+                </th>
+            }
+            <th>
+                @Html.DisplayNameFor(model => model.ProfileImage)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @if (User.Identity.Name.Equals("Admin@hotmail.com"))
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreProducto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoProducto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cantidad)
+                    </td>
+                    <td>
+                        <img src="~/Images/@(item.ProfileImage ?? "DefaultImage.jpg" )" class="img-thumbnail" width="150" height="100" asp-append-version="true" />
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+
+                }
+                else
+                {
+                    @if (item.TipoProducto.Equals(ViewBag.TipoProducto))
+                    {
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NombreProducto)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TipoProducto)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Precio)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Cantidad)
+                        </td>
+                        <td>
+                            <img src="~/Images/@(item.ProfileImage ?? "DefaultImage.jpg" )" class="img-thumbnail" width="150" height="100" asp-append-version="true" />
+                        </td>
+                        <td>
+                            <a asp-area="" asp-controller="Producto" asp-action="Details" asp-route-id="@item.Id">Agregar</a>
+                        </td>
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#Datos').DataTable({
+                'paging': true,
+                'lengthChange': false,
+                'searching': false,
+                'ordering': true,
+                'info': true,
+                'autoWidth': false
+            })
+        })
+    </script>
+}

@@ -1,0 +1,152 @@
+﻿@*For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+    @{
+    }*@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Solution.UI</title>
+    <link rel="stylesheet" href="Scripts - Copia/adminlte/components/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+    <meta charset="UTF-8">
+    <meta name="description" content="Ogani Template">
+    <meta name="keywords" content="Ogani, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ogani | Template</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="Content/adminlte/css/AdminLTE.css" type="text/css">
+
+    @*<link rel="stylesheet" href="Content/bootstrap.css" type="text/css">*@
+    @*<link rel="stylesheet" href="Scripts - Copia/adminlte/components/bootstrap/dist/css/bootstrap.min.css" type="text/css">*@
+    @*<link rel="stylesheet" href="Scripts - Copia/adminlte/components/font-awesome/css/font-awesome.min.css" type="text/css">*@
+    @*<link rel="stylesheet" href="Scripts - Copia/adminlte/components/Ionicons/css/ionicons.min.css" type="text/css">*@
+    <link rel="stylesheet" href="Scripts - Copia/adminlte/components/datatables.net-bs/css/dataTables.bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="Scripts - Copia/adminlte/components/Content/adminlte/css/AdminLTE.min.css" type="text/css">
+    <link rel="stylesheet" href="Scripts - Copia/adminlte/components/Content/adminlte/css/skins/_all-skins.min.css" type="text/css">
+        <link rel="stylesheet" href="Scripts - Copia/adminlte/components/Content/adminlte/css/morris.js/morris.css" type="text/css">
+    @*<link rel="stylesheet" href="Scripts - Copia/adminlte/components/jvectormap/jquery-jvectormap.css" type="text/css">*@
+
+
+    @*string ltecomponents = "~/Scripts/adminlte/components/";*@
+
+
+    @*.Include("~/Content/bootstrap.css")*@
+    @*.Include(ltecomponents + "bootstrap/dist/css/bootstrap.min.css")*@
+    @*.Include(ltecomponents + "font-awesome/css/font-awesome.min.css")*@
+    @*.Include(ltecomponents + "Ionicons/css/ionicons.min.css")*@
+    @*.Include(ltecomponents + "datatables.net-bs/css/dataTables.bootstrap.min.css")*@
+    @*.Include("~/Content/adminlte/css/AdminLTE.min.css")*@
+    @*.Include("~/Content/adminlte/css/skins/_all-skins.min.css")*@
+    @*.Include(ltecomponents + "morris.js/morris.css")*@
+
+    @*-------------------------------------------------------------*@
+
+    @*.Include(ltecomponents + "jvectormap/jquery-jvectormap.css")
+        .Include(ltecomponents + "bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css")
+        .Include(ltecomponents + "bootstrap-daterangepicker/daterangepicker.css")
+        .Include(lteplugins + "bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css")
+        .Include(lteplugins + "bootstrap-slider/slider.css")
+        .Include(ltecomponents + "select2/dist/css/select2.min.css")
+        .Include(ltecomponents + "bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css")
+        .Include(lteplugins + "timepicker/bootstrap-timepicker.min.css")
+        .Include(lteplugins + "iCheck/all.css")
+        .Include(lteplugins + "pace/pace.min.css")
+        .Include(ltecomponents + "fullcalendar/dist/fullcalendar.min.css"));*@
+
+    <link rel="stylesheet" href="Scripts/components/datatables.net-bs/css/dataTables.bootstrap.css" type="text/css">
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Menú</a>
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <partial name="_LoginPartial" />
+                    <ul class="navbar-nav flex-grow-1">
+
+                        <li class="nav-item">
+                            @if (User.Identity.IsAuthenticated.Equals(true) && User.Identity.Name.Equals("Admin@hotmail.com"))
+                            {
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Producto" asp-action="Index">Producto</a>
+                            }
+                        </li>
+
+                        <li class="nav-item">
+                            @if (User.Identity.IsAuthenticated.Equals(true) && User.Identity.Name.Equals("Admin@hotmail.com"))
+                            {
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Factura" asp-action="Index">Factura</a>
+                            }
+                        </li>
+                        <li class="nav-item">
+                            @if (User.Identity.IsAuthenticated.Equals(true) && !User.Identity.Name.Equals("Admin@hotmail.com"))
+                            {
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Carrito" asp-action="Index">Carrito</a>
+                            }
+                        </li>
+
+                        @*<div class="nav-item">
+                                <a class="nav-link" href='/Identity/Account/Login'>Login</a>
+                            </div>*@
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+
+        </main>
+    </div>
+
+    @*<footer class="border-top footer text-muted">
+            <div class="container">
+                @await Component.InvokeAsync("Paises")
+                <vc:Paises></vc:Paises>
+
+                &copy; 2020 - Solution.UI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </footer>*@
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/mixitup.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/components/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/Scripts/components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @*.Include(ltecomponents + "datatables.net/js/jquery.dataTables.min.js")
+    .Include(ltecomponents + "datatables.net-bs/js/dataTables.bootstrap.min.js")*@
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
